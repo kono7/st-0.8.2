@@ -6,7 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "Liberation Mono for Powerline:pixelsize=16:antialias=true:autohint=true";
-static char *font = "DejaVu sans Mono for Powerline:pixelsize=16:antialias=true:autohint=true";
+//static char *font = "DejaVu sans Mono for Powerline:pixelsize=16:antialias=true:autohint=true";
+static char *font = "DejaVu sans Mono:pixelsize=16:antialias=true:autohint=true";
 // static char *font = "Hack-Regular:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
 
